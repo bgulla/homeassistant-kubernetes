@@ -1,0 +1,8 @@
+{
+  "domain": "kubernetes",
+  "name": "Kubernetes Sensor",
+  "documentation": "https://github.com/bgulla/homeassistant-kubernetes",
+  "dependencies": ["kubernetets==9.0.1"],
+  "codeowners": [],
+  "requirements": []
+}
